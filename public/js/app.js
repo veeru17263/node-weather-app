@@ -1,4 +1,3 @@
-console.log('javasceipt is added')
 
 const weatherform = document.querySelector('form')
 const search = document.querySelector('input')
